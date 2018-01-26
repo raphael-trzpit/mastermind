@@ -1,7 +1,7 @@
 # Mastermind
 
 [![Build Status](https://travis-ci.org/raphael-trzpit/mastermind.svg?branch=master)](https://travis-ci.org/raphael-trzpit/mastermind)
-[![Coverage Status](https://coveralls.io/repos/raphael-trzpit/mastermind/badge.svg?branch=master)](https://coveralls.io/r/raphael-trzpit/mastermind?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/raphael-trzpit/mastermind/badge.svg?branch=master)](https://coveralls.io/github/raphael-trzpit/mastermind?branch=master)
 [![Go Report Card](http://goreportcard.com/badge/raphael-trzpit/mastermind)](http:/goreportcard.com/report/raphael-trzpit/mastermind)
 
 
